@@ -48,7 +48,7 @@ You can install these libraries using pip:
          LokSabha_Election_Analysis/
          │
          ├── Election_2024.ipynb  # Jupyter notebook with the analysis
-         ├── Datasets/            # Directory to store the dataset
+         ├── Datasets/            # Directory to store the datasets
          └── README.md            # Project README file
 
 
