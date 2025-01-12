@@ -35,11 +35,11 @@ You can install these libraries using pip:
      
   2. Navigate to the project directory:
      
-                cd Indian-Loksabha-Election-2024-Result-Data-Analysis
+                cd LokSabha_Election_Analysis
      
   3. Open the Jupyter notebook:
      
-               jupyter notebook "Loksabha Election 2024 Result Data Analysis.ipynb"
+               jupyter notebook "Elrction_2024.ipynb"
 
   4. Run the cells in the notebook to perform the analysis.
      
